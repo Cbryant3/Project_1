@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Embedded Style Sheet</title>
+body {
+    background-color: ffcc66;
+  }
+h1{ 
+    color: rgb(102, 51, 0);
+    font-family: "Courier New", Courier, monospace;
+    font-size: 300%
+  }
+h2{ 
+    color: rgb(102, 51, 0);
+    font-family: "Courier New", Courier, monospace;
+    font-size: 150%
+  }
+  
+h3{ 
+    color: rgb(102, 51, 0);
+    font-family: "Courier New", Courier, monospace;
+    font-size: 110%
+  }
+p{
+    color:rgb(204, 102, 0);
+    font-family: "Courier New", Courier, monospace;;
+    font-size: 110%
+}
+ol{
+	color:rgb(204, 102, 0);
+    font-family: "Courier New", Courier, monospace;;
+    font-size: 110%
+	
+}
+</style>
+</body>
+</html>
